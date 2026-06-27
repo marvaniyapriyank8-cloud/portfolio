@@ -94,7 +94,7 @@ bio:
     description:
       "A MERN-based personal finance and transaction management application with authentication, account balance tracking, and transaction history.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
-    image: "/ledgerPay.png",
+    image: "/LedgerPay.png",
     github: "https://github.com/marvaniyapriyank8-cloud/ledgerpay",
     demo: "#",
   },
@@ -103,7 +103,7 @@ bio:
     description:
       "A modern music streaming and discovery platform with responsive UI, playlists, and smooth user experience.",
     tech: ["React", "Node.js", "MongoDB"],
-    image: "/wavR.png",
+    image: "/WavR.png",
     github: "https://github.com/marvaniyapriyank8-cloud/wavr",
     demo: "#",
   },
