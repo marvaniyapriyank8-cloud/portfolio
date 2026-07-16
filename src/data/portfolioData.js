@@ -35,7 +35,7 @@ tagline:
   "IT undergraduate building scalable and modern web applications.",
 
 bio:
-"I am Priyank Marvaniya, an Information Technology student at GTU currently pursuing my Bachelor's degree. I am a passionate MERN Stack Developer with hands-on experience in building full-stack applications like LedgerPay, WavR, and Pixora. My expertise includes React.js, Node.js, Express.js, MongoDB, authentication systems, REST APIs, and responsive UI development. I enjoy solving real-world problems by building scalable and efficient web applications.",
+"I am Priyank Marvaniya, an Information Technology student at GTU currently pursuing my Bachelor's degree. I am a passionate MERN Stack Developer with hands-on experience in building full-stack applications like Skillforge, LedgerPay, WavR, and Pixora. My expertise includes React.js, Node.js, Express.js, MongoDB, authentication systems, REST APIs, and responsive UI development. I enjoy solving real-world problems by building scalable and efficient web applications.",
   profileImage: "/Profile.jpeg",
   resumeLink: "/Resume.pdf",
 
@@ -89,11 +89,20 @@ bio:
 ],
 
   projects: [
+     {
+    title: "SkillForge",
+    description:
+      "Developed a full-stack AI-powered career development platform with role-based authentication for Students, Recruiters, Mentors, and Admin using JWT, Integrated Groq AI for resume analysis, skill gap detection, interview question generation, and personalized learning roadmaps, Built secure REST APIs, cloud file uploads with ImageKit",
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Groq AI", "JWT", "Tailwind CSS", "ImageKit"],
+    image: "/SkillForge.png",
+    github: "https://github.com/marvaniyapriyank8-cloud/skillforge",
+    demo: "#",
+  },
   {
     title: "LedgerPay",
     description:
       "A MERN-based personal finance and transaction management application with authentication, account balance tracking, and transaction history.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: "/LedgerPay.png",
     github: "https://github.com/marvaniyapriyank8-cloud/ledgerpay",
     demo: "#",
@@ -102,7 +111,7 @@ bio:
     title: "WavR",
     description:
       "A modern music streaming and discovery platform with responsive UI, playlists, and smooth user experience.",
-    tech: ["React", "Node.js", "MongoDB"],
+    tech: ["React.js", "Node.js", "MongoDB"],
     image: "/WavR.png",
     github: "https://github.com/marvaniyapriyank8-cloud/wavr",
     demo: "#",
@@ -111,7 +120,7 @@ bio:
     title: "Pixora",
     description:
       "A photo sharing platform with JWT authentication, ImageKit integration, secure uploads, and user-friendly gallery system.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "ImageKit"],
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "ImageKit"],
     image: "/Pixora.png",
     github: "https://github.com/marvaniyapriyank8-cloud/pixora",
     demo: "#",
@@ -123,13 +132,13 @@ bio:
     "MERN Stack Developer focused on building scalable full-stack applications using React.js, Node.js, Express.js, and MongoDB.",
 
   highlights: [
-    "Built 3+ full-stack MERN projects",
+    "Built 4+ full-stack MERN projects",
     "Strong knowledge of Authentication & Authorization (JWT)",
     "Experienced in CRUD operations, REST APIs, and MongoDB",
     "Currently building production-ready scalable web applications",
   ],
 
-  updated: "Updated June 2026",
+  updated: "Updated July 2026",
 },
 
   navLinks: [
