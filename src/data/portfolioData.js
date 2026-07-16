@@ -94,7 +94,7 @@ bio:
     description:
       "Developed a full-stack AI-powered career development platform with role-based authentication for Students, Recruiters, Mentors, and Admin using JWT, Integrated Groq AI for resume analysis, skill gap detection, interview question generation, and personalized learning roadmaps, Built secure REST APIs, cloud file uploads with ImageKit",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Groq AI", "JWT", "Tailwind CSS", "ImageKit"],
-    image: "/SkillForge.png",
+    image: "/Skillforge.png",
     github: "https://github.com/marvaniyapriyank8-cloud/skillforge",
     demo: "#",
   },
