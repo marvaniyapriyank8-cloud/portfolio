@@ -11,7 +11,6 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import LoadingScreen from "./components/LoadingScreen";
 import BackToTop from "./components/BackToTop";
-import CustomCursor from "./components/CustomCursor";
 import "./App.css";
 import { portfolioData } from "./data/portfolioData";
 
@@ -44,7 +43,6 @@ function App() {
     <ThemeProvider>
       <div className="App relative bg-bg text-fg min-h-screen antialiased">
         <LoadingScreen />
-        <CustomCursor />
         <Navbar />
 
         <main>
