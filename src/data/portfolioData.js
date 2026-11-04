@@ -117,7 +117,7 @@ export const portfolioData = {
       ],
       image: "/Skillforge.png",
       github: "https://github.com/marvaniyapriyank8-cloud/skillforge",
-      demo: "#",
+      demo: "https://priyank-skillforgeai.vercel.app/",
     },
     {
       title: "LedgerPay",
